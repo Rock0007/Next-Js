@@ -35,9 +35,18 @@ This repository contains a Next.js application with Clerk user authentication. C
 
 This project demonstrates how to integrate Clerk authentication into a Next.js application. You can customize the authentication flows, user interface, and user management features according to your project requirements using Clerk.
 
-## Contributing
+# Clerk User Authentication with Next.js
 
-Pull requests and bug reports are welcome. For major changes, please open an issue first to discuss what you would like to change.
+This repository contains a Next.js application with Clerk user authentication. Clerk is a powerful authentication and user management platform that makes it easy to add secure user authentication and user management to your web applications.
+
+...
+
+## Demo
+
+Check out the live demo of this project [here](https://next-js-eight-bice.vercel.app/).
+
+...
+
 
 ---
 
